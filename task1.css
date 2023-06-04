@@ -1,0 +1,69 @@
+.w1{
+   margin-left: 550px; 
+   margin-right: 550px;
+}
+.emoji1{
+    color:#1a64d6;
+}
+.t1{
+    color:#1a64d6;
+    font-weight: 700;
+    font-family: Helvetica, Arial, sans-serif;
+}
+.degrees{
+    display: block
+}
+.d2{
+    padding-top: 8px;
+}
+.btn:hover span{
+    background-color: white;
+    color:#1a64d6;
+}
+
+
+.btn:hover{
+    background-color: white;
+}
+
+.tomorrow:hover{
+    background-color: rgba(280, 240, 220, 0.432);
+    border-color: rgb(237, 222, 198);
+    border-radius: 6px;
+    
+    
+    border: none;
+}
+ .Saturday:hover{
+    background-color: rgba(280, 240, 220, 0.432);
+    border-color: rgb(237, 222, 198);
+    border-radius: 6px;
+    
+    
+    
+    border: none;
+}
+.Sunday:hover{
+    background-color:rgba(280, 240, 220, 0.432);
+    border-color: rgb(237, 222, 198);
+    border-radius: 6px;
+    border: none;
+    
+}
+.e3{
+    -webkit-filter: black(100%);
+   filter: grayscale(200%);
+   border-color: black;
+   border-width: 4px;
+}
+.e2{
+    -webkit-filter: grayscale(100%);
+   filter: grayscale(100%);
+}
+.emoji1{
+    -webkit-filter: grayscale(100%);
+   filter: blue(100%);
+    color-scheme: blue;
+        text-shadow: 0 0 5px blue;
+}
+   
